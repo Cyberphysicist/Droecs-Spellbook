@@ -1,5 +1,8 @@
 /*
 Miller,Jonathan. "An Excerpt from Droec's Spellbook," Telicom 35,no. 2 (July-September 2023):82.
+Learn more about Telicom & ISPE at:
+--https://www.thethousand.com/about.php
+--https://www.thethousand.com/about_telicom.php
 
 Poetic expression of a SQL query designed to visualize person to person connections in a network diagram.
 
