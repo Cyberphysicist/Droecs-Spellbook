@@ -1,5 +1,5 @@
 /*
-Miller,Jonathan. "Exerpt from Droec's Spellbook," Telicom 35,no. 2 (July-September 2023):82.
+Miller,Jonathan. "An Excerpt from Droec's Spellbook," Telicom 35,no. 2 (July-September 2023):82.
 
 Poetic expression of a SQL query designed to visualize person to person connections in a network diagram.
 
